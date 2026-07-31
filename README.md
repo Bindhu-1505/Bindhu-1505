@@ -53,22 +53,9 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,c,mysql" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
-
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,aws" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,react,html,css,js,fastapi,mysql,mongodb,git,github,vscode,docker,idea&perline=8" />
+</p>
 
 </div>
 
