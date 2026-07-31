@@ -59,10 +59,8 @@
 
 | Project | Description |
 |---|---|
-| 🏥 **[ReAdmitIQ – Hospital Readmission Prediction](https://github.com/Bindhu-1505/REPLACE_WITH_REPO_NAME)** | FastAPI backend + Jinja2 frontend + scikit-learn Random Forest model predicting hospital readmission risk, with Supabase/SQLite auth |
-| 📄 **Intelligent Legal Documentation Analysis** | AI-driven tool for analyzing and summarizing legal documents |
-| 🤖 **AI Attendance Monitoring System** | Computer vision-based attendance tracking system |
-| 🛍️ **AI Product Intelligence System** | CLIP embeddings, agglomerative clustering, and text-to-image retrieval for fashion product catalogs |
+| 🏥 **[ReAdmitIQ – Hospital Readmission Prediction](https://github.com/Bindhu-1505/)** | FastAPI backend + Jinja2 frontend + scikit-learn Random Forest model predicting hospital readmission risk, with Supabase/SQLite auth |
+
 | 🔍 **Smart Crime Evidence Analysis** | Streamlit-based forensic investigation platform using Gemini 2.0 Flash via OpenRouter |
 | 🌐 **[Personal Portfolio](https://hima-bindhu-chidurupula-portfolio.netlify.app)** | Dark IDE-themed portfolio built with HTML/CSS/JS, deployed on Netlify |
 
