@@ -51,13 +51,57 @@
 - 📫 Reach me at: **bindhuh482@gmail.com**
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,react,html,css,js,fastapi,mysql,mongodb,git,github,vscode,docker,idea&perline=8" />
-</p>
+<table align="center">
+<tr>
+<td>
 
-</div>
+<b>Languages</b>
+
+- Java
+- Python
+- JavaScript
+- SQL
+
+</td>
+
+<td>
+
+<b>Frameworks</b>
+
+- Spring Boot
+- React
+- FastAPI
+- Flask
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<b>Databases</b>
+
+- MySQL
+- MongoDB
+- SQLite
+
+</td>
+
+<td>
+
+<b>Tools</b>
+
+- Git
+- Docker
+- VS Code
+- IntelliJ
+- Power BI
+
+</td>
+</tr>
+</table>
 
 ---
 
