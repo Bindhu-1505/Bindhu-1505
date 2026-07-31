@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=💻+Java+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Spring+Boot+%7C+React+%7C+FastAPI;📊+Machine+Learning+%7C+Python+%7C+SQL;☁️+Learning+Docker+%26+AWS;⭐+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Spring+Boot+%7C+React+%7C+FastAPI;Learning+Docker+%26+AWS;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
