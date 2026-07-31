@@ -22,15 +22,14 @@
 
 ---
 
-### 👋 About Me
+## 👋 About Me
 
 - 🎓 B.Tech in Information Technology, ACE Engineering College, Hyderabad (2023 – 2027)
-- 💻 Java Full Stack Developer with hands-on experience across backend, frontend, and AI/ML pipelines
-- 🚀 Built projects spanning hospital readmission prediction, AI attendance monitoring, and legal document analysis
-- 🌱 Currently deepening my skills in Spring Boot, React, Docker, and AWS
-- 🏆 Active competitive programmer on LeetCode, HackerRank, GeeksforGeeks, and CodeChef (Java preferred)
-- 📫 Reach me at: **add your email here**
-
+- 💻 Java Full Stack Developer with hands-on experience across backend, frontend, and AI/ML projects
+- 🚀 Built real-world applications including Hospital Readmission Prediction, Smart Crime Evidence Analysis, AI Attendance Monitoring, and Intelligent Legal Document Analysis
+- 🌱 Currently expanding my expertise in Spring Boot, React, Docker, and AWS
+- 🏆 Active competitive programmer on LeetCode, HackerRank, GeeksforGeeks, and CodeChef (Java)
+- 📫 Reach me at: **bindhuh482@gmail.com**
 ---
 
 ### 🛠️ Tech Stack
@@ -55,15 +54,13 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
-|---|---|
-| 🏥 **[ReAdmitIQ – Hospital Readmission Prediction](https://github.com/Bindhu-1505/)** | FastAPI backend + Jinja2 frontend + scikit-learn Random Forest model predicting hospital readmission risk, with Supabase/SQLite auth |
-
-| 🔍 **Smart Crime Evidence Analysis** | Streamlit-based forensic investigation platform using Gemini 2.0 Flash via OpenRouter |
-| 🌐 **[Personal Portfolio](https://hima-bindhu-chidurupula-portfolio.netlify.app)** | Dark IDE-themed portfolio built with HTML/CSS/JS, deployed on Netlify |
-
+|---------|-------------|
+| 🏥 **[ReAdmitIQ – Hospital Readmission Prediction](https://github.com/esetu-git-public/bootcamp-ace-26-team-1)** | AI-powered hospital readmission prediction system built with FastAPI, Jinja2, Random Forest, and Supabase/SQLite authentication. |
+| 🔍 **[Smart Crime Evidence Analysis](https://github.com/Bindhu-1505/Smart-Crime-Evidence-Analysis)** | Streamlit-based forensic investigation platform using Gemini 2.0 Flash via OpenRouter for intelligent crime evidence analysis. |
+| 🌐 **[Personal Portfolio](https://hima-bindhu-chidurupula-portfolio.netlify.app)** | Responsive dark-themed portfolio showcasing my projects, skills, certifications, and achievements using HTML, CSS, and JavaScript. |
 > 💡 Replace the `REPLACE_WITH_REPO_NAME` links above with your actual repository names once uploaded.
 
 ---
@@ -93,24 +90,32 @@
 
 ---
 
-### 💻 Coding Profiles
+## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/HimaBindhu_2005/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  <a href="https://leetcode.com/u/HimaBindhu_2005/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+
+  <a href="https://www.codechef.com/users/bindhuh482" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+
+  <a href="https://www.geeksforgeeks.org/profile/bindhu1505" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+
+  <a href="https://www.hackerrank.com/profile/bindhuh482" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
 </p>
 
-> 💡 Replace `YOUR_CODECHEF_USERNAME`, `YOUR_GFG_USERNAME`, and `YOUR_HACKERRANK_USERNAME` with your actual handles.
+## 📈 Coding Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/HimaBindhu_2005?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats"/>
+</p>
+
 
 ---
 
