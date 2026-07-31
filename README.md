@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%" alt="Hima Bindhu Banner">
 </p>
 
-<h1 align="center">Hi there, I'm Hima Bindhu 👋</h1>
+<h1 align="center">Hi there, I'm Hima Bindhu Chidurupula 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hima-bindhu-chidurupula-7b8658292">
