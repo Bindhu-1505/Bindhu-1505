@@ -56,12 +56,35 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🏥 **[ReAdmitIQ – Hospital Readmission Prediction](https://github.com/esetu-git-public/bootcamp-ace-26-team-1)** | AI-powered hospital readmission prediction system built with FastAPI, Jinja2, Random Forest, and Supabase/SQLite authentication. |
-| 🔍 **[Smart Crime Evidence Analysis](https://github.com/Bindhu-1505/Smart-Crime-Evidence-Analysis)** | Streamlit-based forensic investigation platform using Gemini 2.0 Flash via OpenRouter for intelligent crime evidence analysis. |
-| 🌐 **[Personal Portfolio](https://hima-bindhu-chidurupula-portfolio.netlify.app)** | Responsive dark-themed portfolio showcasing my projects, skills, certifications, and achievements using HTML, CSS, and JavaScript. |
-> 💡 Replace the `REPLACE_WITH_REPO_NAME` links above with your actual repository names once uploaded.
+### 🏥 ReAdmitIQ
+
+AI-powered Hospital Readmission Prediction
+
+**Tech Stack**
+
+`FastAPI` `Random Forest` `Jinja2` `SQLite`
+
+🔗 Repository
+
+---
+
+### 🔍 Smart Crime Evidence Analysis
+
+AI-powered forensic investigation
+
+**Tech Stack**
+
+`Streamlit` `Gemini` `Python`
+
+🔗 Repository
+
+---
+
+### 🌐 Portfolio
+
+Dark IDE Theme Portfolio
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
@@ -81,6 +104,12 @@
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Bindhu-1505&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -130,4 +159,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bindhu-1505&color=blue" alt="Profile Views">
+</p>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+Let's build something amazing together 🚀
+
 </p>
