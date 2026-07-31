@@ -51,57 +51,26 @@
 - 📫 Reach me at: **bindhuh482@gmail.com**
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
-<table align="center">
-<tr>
-<td>
+<div align="center">
 
-<b>Languages</b>
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,c,mysql" />
 
-- Java
-- Python
-- JavaScript
-- SQL
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
-</td>
+### Backend
+<img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
 
-<td>
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 
-<b>Frameworks</b>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,aws" />
 
-- Spring Boot
-- React
-- FastAPI
-- Flask
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<b>Databases</b>
-
-- MySQL
-- MongoDB
-- SQLite
-
-</td>
-
-<td>
-
-<b>Tools</b>
-
-- Git
-- Docker
-- VS Code
-- IntelliJ
-- Power BI
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
