@@ -137,13 +137,6 @@ Dark IDE Theme Portfolio
   </a>
 </p>
 
-## 📈 Coding Statistics
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/HimaBindhu_2005?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats"/>
-</p>
-
-
 ---
 
 ### 📫 Connect With Me
