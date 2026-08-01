@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Spring+Boot+%7C+React+%7C+FastAPI;Learning+Docker+%26+AWS;Always+Learning+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Spring+Boot+%7C+React+%7C+FastAPI;Learning+Docker;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 - 🎓 B.Tech in Information Technology, ACE Engineering College, Hyderabad (2023 – 2027)
 - 💻 Java Full Stack Developer with hands-on experience across backend, frontend, and AI/ML projects
 - 🚀 Built real-world applications including Hospital Readmission Prediction, Smart Crime Evidence Analysis, AI Attendance Monitoring, and Intelligent Legal Document Analysis
-- 🌱 Currently expanding my expertise in Spring Boot, React, Docker, and AWS
+- 🌱 Currently expanding my expertise in Spring Boot, React, Docker
 - 🏆 Active competitive programmer on LeetCode, HackerRank, GeeksforGeeks, and CodeChef (Java)
 - 📫 Reach me at: **bindhuh482@gmail.com**
 ---
@@ -68,7 +68,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
 </div>
 
