@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-💻 Java Full Stack Developer • 🤖 AI & Machine Learning Enthusiast • ☁️ Cloud Learner
+💻 Java Full Stack Developer • 🤖 AI & Machine Learning Enthusiast 
 </h3>
 
 <p align="center">
