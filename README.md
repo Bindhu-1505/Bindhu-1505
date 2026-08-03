@@ -45,7 +45,7 @@
 
 - 🎓 B.Tech in Information Technology, ACE Engineering College, Hyderabad (2023 – 2027)
 - 💻 Java Full Stack Developer with hands-on experience across backend, frontend, and AI/ML projects
-- 🚀 Built real-world applications including Hospital Readmission Prediction, Smart Crime Evidence Analysis, AI Attendance Monitoring, and Intelligent Legal Document Analysis
+- 🚀 Built real-world applications including Hospital Readmission Prediction, Smart Crime Evidence Analysis.
 - 🌱 Currently expanding my expertise in Spring Boot, React, Docker
 - 🏆 Active competitive programmer on LeetCode, HackerRank, GeeksforGeeks, and CodeChef (Java)
 - 📫 Reach me at: **bindhuh482@gmail.com**
