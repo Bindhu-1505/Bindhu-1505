@@ -32,9 +32,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Spring+Boot+%7C+React+%7C+FastAPI;Learning+Docker;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bindhu-1505&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 ---
 
