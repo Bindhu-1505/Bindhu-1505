@@ -122,10 +122,6 @@ Dark IDE Theme Portfolio
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bindhu-1505&theme=tokyonight&column=4&margin-w=15&margin-h=15)
-
 <h2 align="center">🐍 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗦𝗻𝗮𝗸𝗲</h2>
 
 <p align="center">
