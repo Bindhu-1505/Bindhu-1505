@@ -41,10 +41,10 @@
 <h2 align="center">👩‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h2>
 
 - 🎓 B.Tech in Information Technology, ACE Engineering College, Hyderabad (2023 – 2027)
-- 💻 Java Full Stack Developer with hands-on experience across backend, frontend, and AI/ML projects
+- 💻 Java Full Stack Developer with hands-on experience across backend, frontend, and AI/ML projects.
 - 🚀 Built real-world applications including Hospital Readmission Prediction, Smart Crime Evidence Analysis.
-- 🌱 Currently expanding my expertise in Spring Boot, React, Docker
-- 🏆 Active competitive programmer on LeetCode, HackerRank, GeeksforGeeks, and CodeChef (Java)
+- 🌱 Currently expanding my expertise in Spring Boot, React, Docker.
+- 🏆 Active competitive programmer on LeetCode, HackerRank, GeeksforGeeks, and CodeChef (Java).
 - 📫 Reach me at: **bindhuh482@gmail.com**
 ---
 
