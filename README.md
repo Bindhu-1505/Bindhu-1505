@@ -53,34 +53,38 @@
 <div align="center">
 
 ### Languages
-<a title="Java"><img src="https://skillicons.dev/icons?i=java"></a>
-<a title="Python"><img src="https://skillicons.dev/icons?i=python"></a>
-<a title="JavaScript"><img src="https://skillicons.dev/icons?i=js"></a>
-<a title="C"><img src="https://skillicons.dev/icons?i=c"></a>
-<a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql"></a>
+
+<img src="https://skillicons.dev/icons?i=java" title="Java">
+<img src="https://skillicons.dev/icons?i=python" title="Python">
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript">
+<img src="https://skillicons.dev/icons?i=c" title="C">
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
 
 ### Frontend
-<a title="HTML"><img src="https://skillicons.dev/icons?i=html"></a>
-<a title="CSS"><img src="https://skillicons.dev/icons?i=css"></a>
-<a title="React"><img src="https://skillicons.dev/icons?i=react"></a>
+
+<img src="https://skillicons.dev/icons?i=html" title="HTML">
+<img src="https://skillicons.dev/icons?i=css" title="CSS">
+<img src="https://skillicons.dev/icons?i=react" title="React">
 
 ### Backend
-<a title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring"></a>
-<a title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs"></a>
-<a title="Flask"><img src="https://skillicons.dev/icons?i=flask"></a>
-<a title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi"></a>
+
+<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot">
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js">
+<img src="https://skillicons.dev/icons?i=flask" title="Flask">
+<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI">
 
 ### Database
-<a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql"></a>
-<a title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb"></a>
-<a title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite"></a>
+
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB">
+<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite">
 
 ### Tools & Platforms
-<a title="Git"><img src="https://skillicons.dev/icons?i=git"></a>
-<a title="GitHub"><img src="https://skillicons.dev/icons?i=github"></a>
-<a title="Docker"><img src="https://skillicons.dev/icons?i=docker"></a>
-<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode"></a>
 
+<img src="https://skillicons.dev/icons?i=git" title="Git">
+<img src="https://skillicons.dev/icons?i=github" title="GitHub">
+<img src="https://skillicons.dev/icons?i=docker" title="Docker">
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code">
 
 </div>
 
