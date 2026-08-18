@@ -53,19 +53,34 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,c,mysql" />
+<a title="Java"><img src="https://skillicons.dev/icons?i=java"></a>
+<a title="Python"><img src="https://skillicons.dev/icons?i=python"></a>
+<a title="JavaScript"><img src="https://skillicons.dev/icons?i=js"></a>
+<a title="C"><img src="https://skillicons.dev/icons?i=c"></a>
+<a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql"></a>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<a title="HTML"><img src="https://skillicons.dev/icons?i=html"></a>
+<a title="CSS"><img src="https://skillicons.dev/icons?i=css"></a>
+<a title="React"><img src="https://skillicons.dev/icons?i=react"></a>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
+<a title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring"></a>
+<a title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs"></a>
+<a title="Flask"><img src="https://skillicons.dev/icons?i=flask"></a>
+<a title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi"></a>
 
 ### Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql"></a>
+<a title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb"></a>
+<a title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite"></a>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+<a title="Git"><img src="https://skillicons.dev/icons?i=git"></a>
+<a title="GitHub"><img src="https://skillicons.dev/icons?i=github"></a>
+<a title="Docker"><img src="https://skillicons.dev/icons?i=docker"></a>
+<a title="VS Code"><img src="https://skillicons.dev/icons?i=vscode"></a>
+
 
 </div>
 
