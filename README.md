@@ -58,7 +58,6 @@
 <img src="https://skillicons.dev/icons?i=python" title="Python">
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
 <img src="https://skillicons.dev/icons?i=c" title="C">
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
 
 ### Frontend
 
@@ -83,8 +82,8 @@
 
 <img src="https://skillicons.dev/icons?i=git" title="Git">
 <img src="https://skillicons.dev/icons?i=github" title="GitHub">
-<img src="https://skillicons.dev/icons?i=docker" title="Docker">
 <img src="https://skillicons.dev/icons?i=vscode" title="VS Code">
+<img src="https://skillicons.dev/icons?i=docker" title="Docker">
 
 </div>
 
